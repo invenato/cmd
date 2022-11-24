@@ -1,0 +1,3 @@
+wmic baseboard get product,Manufacturer,version,serialnumber
+
+versios motherboard / placa madre /placa base
